@@ -1,2 +1,3 @@
-# PaymentGateway
-PayPal_PaymentConfiguration With Java Spring Boot 
+# Spring-Boot-Payment-Gateway
+
+A simple demonstration Paypal Payment integration using spring boot. 
