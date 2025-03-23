@@ -1,3 +1,3 @@
-# Spring-Boot-Payment-Gateway
+# Payment-Gateway
 
 A simple demonstration Paypal Payment integration using spring boot. 
